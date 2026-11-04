@@ -43,6 +43,11 @@ const productionDomains = [
     defaultLocale: "hi" as const,
     locales: ["hi" as const],
   },
+  {
+    domain: "id.hackclub.com",
+    defaultLocale: "id" as const,
+    locales: ["id" as const],
+  },
 ];
 
 const developmentDomains = [
